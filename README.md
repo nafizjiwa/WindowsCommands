@@ -1,4 +1,7 @@
 # WindowsCommands
+###### Move Down 1 file directory --> cd..
+###### Move Down 2 file directories --> cd..\..
+###### Move Down to the root cd\
 
 ![Command Prompt Cheatsheet](https://github.com/user-attachments/assets/1bb7c57a-4290-4be6-aa6b-39b7debdf060)
 </br>
