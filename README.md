@@ -9,6 +9,7 @@
     dir (Directory): List the contents of the current directory, including files and subfolders. 
     mkdir (Make Directory) or md: Create a new folder. 
     rmdir: Remove an empty directory. 
+    echo > <filename>: Create a file. Add extension for specific file type .js, .txt 
 ##### 2. Basic File Management: 
 
     copy: Copy files or directories. copy file1.txt file2.txt copies the content of file1.txt to a new file named file2.txt. 
