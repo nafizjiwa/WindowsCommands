@@ -3,6 +3,16 @@
 ###### Move Down 2 file directories --> cd..\..
 ###### Move Down to the root cd\
 
+#### 1. Navigating the File System:
+cd (Change Directory): Navigate to different folders. cd Documents to go to the Documents folder, for example. </br>
+dir (Directory): List the contents of the current directory, including files and subfolders. </br>
+mkdir (Make Directory) or md: Create a new folder. </br>
+rmdir: Remove an empty directory. </br>
+##### 2. Basic File Management: 
+copy: Copy files or directories. copy file1.txt file2.txt copies the content of file1.txt to a new file named file2.txt. </br>
+del (Delete): Delete files. del file.txt deletes the file named file.txt. </br>
+ren (Rename): Rename files or directories. ren oldname.txt newname.txt renames oldname.txt to newname.txt. </br>
+
 ![Command Prompt Cheatsheet](https://github.com/user-attachments/assets/1bb7c57a-4290-4be6-aa6b-39b7debdf060)
 </br>
 ![command-line](https://github.com/user-attachments/assets/610a55ed-c0fe-474f-9655-9965eb4cfd64)
